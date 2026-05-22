@@ -1,4 +1,4 @@
-# Big-dara-visualization-project
+# Big-data-visualization-project
 Big data Visualization using python and Google colab
 
 # Big Data Visualization Project
